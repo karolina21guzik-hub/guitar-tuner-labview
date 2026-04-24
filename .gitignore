@@ -1,0 +1,7 @@
+*.autosave
+*.bak
+*.tmp
+*.aliases
+*.lvlps
+.DS_Store
+Thumbs.db
